@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @fortanza
+- 👋 Hi, I'm @Cédric LASSALLE 
 - 👀 I'm interested in web development
 - 🌱 I'm learning HTML CSS JAVASCRIT SASS BOOTSTRAP REACT PHP 
 - 💞️ I'm looking to collaborate on group projects 
